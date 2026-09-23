@@ -105,6 +105,7 @@ The frontend dev server opens at `http://localhost:5173`.
 Run the entire full-stack application (PostgreSQL, Redis, RabbitMQ, Backend, Frontend) in one command:
 ```bash
 docker compose up --build
+
 ```
 Services available:
 - **Frontend Web UI**: `http://localhost:3000`

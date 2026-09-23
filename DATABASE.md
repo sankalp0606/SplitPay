@@ -1,4 +1,4 @@
-# SPLITPAY: Database Schema & Migration Guide
+git a# SPLITPAY: Database Schema & Migration Guide
 
 SPLITPAY utilizes PostgreSQL 16+ as its durable source of truth. All schema management is executed via Flyway versioned migrations.
 

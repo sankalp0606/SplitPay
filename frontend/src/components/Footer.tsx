@@ -27,7 +27,7 @@ export const Footer: React.FC = () => {
             <span>Production-Oriented UPI Splitting Platform — India</span>
           </div>
           <div>
-            &copy; {new Date().getFullYear()} SplitPay Inc. Built with Spring Boot 3 &amp; React.
+            &copy; {new Date().getFullYear()} SplitPay Created by Sankalp Dwivedi.
           </div>
         </div>
       </div>
